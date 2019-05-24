@@ -1,0 +1,1 @@
+[null,{"name":"ban","permissions":"BAN_MEMBERS","restriction":"2","actions":[{"member":"0","varName":"","reason":"","name":"Ban Member"}]},{"name":"kick","permissions":"KICK_MEMBERS","restriction":"2","actions":[{"member":"0","varName":"","reason":"","name":"Kick Member"}]}]
